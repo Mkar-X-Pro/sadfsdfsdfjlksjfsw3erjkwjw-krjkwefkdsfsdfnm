@@ -1,1 +1,3 @@
-test = 1.0
+  Data = {
+      VERSION = 1.3
+  }
